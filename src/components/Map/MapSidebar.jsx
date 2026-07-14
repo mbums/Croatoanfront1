@@ -122,7 +122,7 @@ function MapSidebar({
         className="w-full py-3 mb-4 rounded bg-gradient-to-r from-green-600 to-green-800 hover:opacity-90 text-white font-medium shadow-lg flex items-center justify-center gap-2"
       >
         <Plus size={18} />
-        Add New Locationmnnnnnnnnn
+        Add New Location
       </button>
 
       {/* {!user?.premium && ( */}
